@@ -2,7 +2,7 @@
 
 ___包括两个部分，前台客户端和后台管理。___  
   
-* 采用技术：Servlet+JSP+JDBC+MYSQL数据库(C3P0链接池) 遵循MVC开发模式  
+* 采用技术：Servlet+JSP+JDBC+MYSQL数据库(C3P0链接池) MVC开发模式  
   * mysql 数据库设计：  
       * 餐桌表
 	  * 菜类别表
