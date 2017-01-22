@@ -33,7 +33,3 @@ ___项目文档结构如图：___
   
 ![jar包](https://github.com/libenhe/hotel/blob/master/READMEimg/project.jpg)  
     
-
-
-	  
- 
