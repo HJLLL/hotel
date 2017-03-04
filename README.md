@@ -1,6 +1,6 @@
 ## 无线点餐平台  （自己独自完成的第一个项目，有需要完善的地方）
 
-___包括两个部分，前台客户端和后台管理。___  
+___包括两个部分，前台用户使用界面和后台管理员管理界面。___  
   
 * 采用技术：Servlet+JSP+JDBC+MYSQL数据库(C3P0链接池) MVC开发模式  
   * mysql 数据库设计：  
@@ -33,3 +33,4 @@ ___项目文档结构如图：___
   
 ![jar包](https://github.com/libenhe/hotel/blob/master/READMEimg/project.jpg)  
     
+
