@@ -47,7 +47,6 @@ public interface IOrdersDao {
 	 * @return
 	 */
 	int getCount();
-	
 	/**
 	 * 订单总记录数
 	 * 

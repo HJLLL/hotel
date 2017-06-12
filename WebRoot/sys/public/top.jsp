@@ -113,7 +113,7 @@ margin-left: 10px;
 		<!-- 标题 -->
 		
 		<div id="Head_1_Logo">
-			<b style="font-family: '黑体'">点餐管理平台</b> <!-- <img border="0" src="style/images/logo.png" /> -->
+			<b style="font-family: '黑体'">无线点餐管理平台</b> <!-- <img border="0" src="style/images/logo.png" /> -->
         </div>
 		<!-- 欢迎用户的文字 -->
 		<div id="Head_1_UserWelcome">

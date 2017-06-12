@@ -50,10 +50,11 @@
 <div id="StatusBar">
 	<!-- 链接 -->
     <div id="StatusBar_Links">
-		
+		<a href="#" target="_blank"></a>
     </div>
 	<!-- 右侧功能按钮 -->
     <div id="StatusBar_Right">
+	
     </div>
 </div>
 

@@ -41,13 +41,14 @@ public class EncodingFilter implements Filter {
 
 		request.setCharacterEncoding("utf-8");
 		HttpServletRequest req = (HttpServletRequest) request;
-
 		if (req.getMethod().equals("GET")) {
 			EncodingRequest er = new EncodingRequest(req);
 			chain.doFilter(er, response);
 		} else if (req.getMethod().equals("POST")) {
 			chain.doFilter(request, response);
+
 		}
+		
 	}
 
 	/*

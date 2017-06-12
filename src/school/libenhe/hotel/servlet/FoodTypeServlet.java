@@ -75,9 +75,9 @@ public class FoodTypeServlet extends HttpServlet {
 	private void list(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
 		try {
-			List<FoodType> list = service.query();
-			request.setAttribute("list", list);
-			request.getServletContext().setAttribute("foodtype", list);
+			List<FoodType> list1 = service.query();
+			request.setAttribute("list", list1);
+			request.getServletContext().setAttribute("foodtype", list1);
 			uri = request.getRequestDispatcher("/sys/foodtype/cuisineList.jsp");
 		} catch (Exception e) {
 			e.printStackTrace();
